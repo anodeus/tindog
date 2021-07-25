@@ -1,8 +1,6 @@
-# tindog
-
 # TINDOG
 
-This is a commercial based website, using HTML, CSS, Bootstrap 4 Framework, Javascript, created by Abhi Singh.
+This is a commercial based website, using HTML, CSS and Bootstrap 4 Framework, created by Abhi Singh.
 
 
 ## Author
@@ -14,7 +12,9 @@ This is a commercial based website, using HTML, CSS, Bootstrap 4 Framework, Java
 
 **Tool:** VScode
 
-**Language:** HTML, CSS, JAVASCRIPT
+**Language:** HTML, CSS
+
+**FrameWork:** Bootstrap 4
 
 
   
