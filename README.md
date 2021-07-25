@@ -1,6 +1,10 @@
 # TINDOG
 
-This is a commercial based website, using HTML, CSS and Bootstrap 4 Framework, created by Abhi Singh.
+It's a commercial based website for matching dogs, using HTML, CSS and Bootstrap 4 Framework. 
+
+## About 
+
+Tindog is a website where your dog will meet with other dogs. Pebbeles from New York says he is no longer had to sniff other dogs for love because he found the hottest Corgi on tinDog. So if you are finding the right dog for your dog go visit our [website](https://anodeus.github.io/tindog).
 
 
 ## Author
@@ -19,6 +23,7 @@ This is a commercial based website, using HTML, CSS and Bootstrap 4 Framework, c
 
   
 ## Screenshots
+
 ![App Part](https://github.com/anodeus/tindog/blob/ee0730064da79d44d3517dc168d393b21b0bd925/Features/part%201.png)
 
 ![App Part](https://github.com/anodeus/tindog/blob/c8be0d8c0de4dd5f294032f009369acb5e0e450c/Features/part%205.png)
@@ -30,6 +35,8 @@ This is a commercial based website, using HTML, CSS and Bootstrap 4 Framework, c
 ![App Part](https://github.com/anodeus/tindog/blob/ee0730064da79d44d3517dc168d393b21b0bd925/Features/part%205.png)
 
 ![App Part](https://github.com/anodeus/tindog/blob/ee0730064da79d44d3517dc168d393b21b0bd925/Features/part%206.png)
+
+
 ## Features
 
 - Home
@@ -39,10 +46,6 @@ This is a commercial based website, using HTML, CSS and Bootstrap 4 Framework, c
 - Plans
 - Contacts
 
-  
-## Lessons Learned
-
-This is a club where people can connect all over the world through their registration code. Here people can learn about nutritions and diets. According to their health, club provide them a good and healthy routine. We help peoples to remain calm and fit.
 
 ## Logo
 
