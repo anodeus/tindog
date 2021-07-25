@@ -19,18 +19,18 @@ This is a commercial based website, using HTML, CSS and Bootstrap 4 Framework, c
 
   
 ## Screenshots
-![App Part](https://github.com/anodeus/tindog/blob/main/Features/part 1.png)
+![App Part](https://github.com/anodeus/tindog/blob/ee0730064da79d44d3517dc168d393b21b0bd925/Features/part%201.png)
 
 ![App Part](https://github.com/anodeus/tindog/blob/c8be0d8c0de4dd5f294032f009369acb5e0e450c/Features/part%205.png)
 
 
-![App Part](https://github.com/anodeus/tindog/blob/main/Features/part 2.png)
+![App Part](https://github.com/anodeus/tindog/blob/ee0730064da79d44d3517dc168d393b21b0bd925/Features/part%203.png)
 
-![App Part](https://github.com/anodeus/tindog/blob/main/Features/part 3.png)
+![App Part](https://github.com/anodeus/tindog/blob/ee0730064da79d44d3517dc168d393b21b0bd925/Features/part%204.png)
 
-![App Part](https://github.com/anodeus/tindog/blob/main/Features/part 4.png)
+![App Part](https://github.com/anodeus/tindog/blob/ee0730064da79d44d3517dc168d393b21b0bd925/Features/part%205.png)
 
-![App Part](https://github.com/anodeus/tindog/blob/main/Features/part 5.png)
+![App Part](https://github.com/anodeus/tindog/blob/ee0730064da79d44d3517dc168d393b21b0bd925/Features/part%206.png)
 ## Features
 
 - About Us
