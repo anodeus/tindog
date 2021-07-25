@@ -20,9 +20,13 @@ This is a commercial based website, using HTML, CSS and Bootstrap 4 Framework, c
   
 ## Screenshots
 ![App Part](https://github.com/anodeus/tindog/blob/main/Features/part 1.png)
+
 ![App Part](https://github.com/anodeus/tindog/blob/main/Features/part 2.png)
+
 ![App Part](https://github.com/anodeus/tindog/blob/main/Features/part 3.png)
+
 ![App Part](https://github.com/anodeus/tindog/blob/main/Features/part 4.png)
+
 ![App Part](https://github.com/anodeus/tindog/blob/main/Features/part 5.png)
 ## Features
 
