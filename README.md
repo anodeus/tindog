@@ -23,7 +23,6 @@ This is a commercial based website, using HTML, CSS and Bootstrap 4 Framework, c
 
 ![App Part](https://github.com/anodeus/tindog/blob/c8be0d8c0de4dd5f294032f009369acb5e0e450c/Features/part%205.png)
 
-
 ![App Part](https://github.com/anodeus/tindog/blob/ee0730064da79d44d3517dc168d393b21b0bd925/Features/part%203.png)
 
 ![App Part](https://github.com/anodeus/tindog/blob/ee0730064da79d44d3517dc168d393b21b0bd925/Features/part%204.png)
@@ -33,10 +32,12 @@ This is a commercial based website, using HTML, CSS and Bootstrap 4 Framework, c
 ![App Part](https://github.com/anodeus/tindog/blob/ee0730064da79d44d3517dc168d393b21b0bd925/Features/part%206.png)
 ## Features
 
-- About Us
-- Nutritions
-- Training
-- Timetable
+- Home
+- Status
+- Comments
+- Sponsored
+- Plans
+- Contacts
 
   
 ## Lessons Learned
@@ -45,7 +46,7 @@ This is a club where people can connect all over the world through their registr
 
 ## Logo
 
-![Logo](https://github.com/anodeus/fitnessclub/blob/main/resources/logo.png)
+![tindog](https://github.com/anodeus/tindog/blob/aa3efd25e652a2fd30df5d3e0456a147565e6252/Features/logo.png)
   
     
 ## Contact
